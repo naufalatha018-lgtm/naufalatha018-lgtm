@@ -24,9 +24,7 @@
 
 ### 📌 Executive Overview
 
-Mahasiswa **D3 Rekayasa Perangkat Lunak Aplikasi (RPLA)** di **Telkom University** dengan spesialisasi pengembangan rekayasa perangkat lunak aplikasi berbasis *mobile client*, integrasi antarmuka web modern, dan arsitektur kode bersih (*clean architecture*). 
-
-Berfokus pada pembuatan aplikasi yang terstruktur, memiliki performa stabil, keamanan penyimpanan lokal (*local encryption*), serta alur data yang terisolasi dengan rapi sesuai standar industri modern.
+Mahasiswa **D3 Rekayasa Perangkat Lunak Aplikasi (RPLA)** di **Telkom University** 
 
 ---
 
